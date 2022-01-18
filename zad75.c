@@ -21,6 +21,6 @@ int main(){
    printf("Unesi visinu piramide:\n");
    scanf("%d",&h);
    float V=volumen(a,h);
-   printf("Povrsina baze piramide je %f\n",V);
+   printf("Volumen piramide je %f\n",V);
    return 0;
 }
